@@ -31,6 +31,7 @@ The model with the best overall performance across all metrics was: **SVM with R
 
 - `MetricasYcv.ipynb`: Jupyter notebook with the full code and results.
 - `Métricas_y_validación_cruzada.pdf`: Project description (in Spanish).
+- `Métricas_y_CV.pdf`: Document with the explained notebook, results, conclusions, and future improvements.
 
 ## Tools
 
