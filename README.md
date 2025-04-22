@@ -27,7 +27,7 @@ Evaluation was done using **5-fold cross-validation**, comparing:
 
 The model with the best overall performance across all metrics was: **SVM with RBF kernel**
 
-## 📁 Files
+## Files
 
 - `MetricasYcv.ipynb`: Jupyter notebook with the full code and results.
 - `Métricas_y_validación_cruzada.pdf`: Project description (in Spanish).
